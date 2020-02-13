@@ -1,4 +1,4 @@
-var items = [4, 2, 6, 5, 3, 9];
+var quickItems = [4, 2, 6, 5, 3, 9];
 
 
 // for swapping two elements int the array
@@ -28,6 +28,7 @@ function partition(items, left, right) {
     }
 
     return i;
+    
 }
 
 
@@ -47,4 +48,4 @@ function quickSort(items, left = 0, right = items.length - 1) {
     return items;
 }
 
-console.log(quickSort(items));
+console.log(quickSort(quickItems));
