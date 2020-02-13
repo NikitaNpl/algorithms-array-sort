@@ -53,5 +53,4 @@ function quickSort(items, left = 0, right = items.length - 1) {
 
     return items;
 }
-}
 ```
