@@ -55,7 +55,7 @@ function quickSort(items, left = 0, right = items.length - 1) {
 }
 ```
 
-## Bubble sort | O(n^2) - linear complexity
+## Bubble sort | O(n^2) - quadratic complexity
 1. Bubble sort: first concept
 * Go through the entire array and compare the current element with the next one.
 * If it is larger than the next one, then rearrange them in places.
