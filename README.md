@@ -4,6 +4,5 @@
 
 * [Merge Sort | O((n log n) + 1) - logarithmic complexity](bubble-sort/README.md)
 
-<<<<<<< HEAD
 * [Merge Sort | O((n log n) + 1) - logarithmic complexity](merge-sort/README.md)
 
